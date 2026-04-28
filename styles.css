@@ -1,0 +1,71 @@
+body {
+    background-color: antiquewhite;
+}
+
+header {
+    width: 50%;
+    height: 100px;
+    border: 1px solid black;
+}
+
+h1 {font-family: ;}
+nav {
+    width: 100%;
+    height: 50px;
+    border: 1px solid black;
+    margin-top: 4px;
+    justify-content: center;
+    align-items: center;
+}
+
+body {background-color: whitesmoke;}
+
+/* styling using the class selector */
+
+.services-grid {
+    width: 70%;
+    height: 70%;
+    border: 1px solid greenyellow;
+    border-radius: 8px;
+}
+/* Styling using id */
+
+#services {
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* universal selector for rule that will wrap up the entire page */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* attribute selector */
+
+a[href] {
+    color: red;
+
+}
+/* Descendant Selector */
+div h2 {
+    color: blueviolet;
+}
+
+section h3 {
+    color: green;
+}
+
+/* child selector*/
+section > h3 {
+    font-style: italic;
+    color: yellowgreen;
+}
+
+    div > h3 {
+    font-style: italic;
+    color:red
+}
