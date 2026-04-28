@@ -23,9 +23,9 @@ body {background-color: whitesmoke;}
 /* styling using the class selector */
 
 .services-grid {
-    width: 70%;
-    height: 70%;
-    border: 1px solid greenyellow;
+    width: 40%;
+    height: 30%;
+    border: 2px solid whitesmoke;
     border-radius: 8px;
 }
 /* Styling using id */
@@ -34,12 +34,13 @@ body {background-color: whitesmoke;}
     height: 80vh;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    justify-content: center;
+    
 }
 
 /* universal selector for rule that will wrap up the entire page */
 * {
-    margin: 0;
+    margin: 20;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -47,7 +48,7 @@ body {background-color: whitesmoke;}
 /* attribute selector */
 
 a[href] {
-    color: red;
+    color: peru;
 
 }
 /* Descendant Selector */
@@ -67,5 +68,5 @@ section > h3 {
 
     div > h3 {
     font-style: italic;
-    color:red
+    color:chocolate     
 }
