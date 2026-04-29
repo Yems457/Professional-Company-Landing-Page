@@ -1,7 +1,7 @@
 # ZeeBee IT Solutions
 
 ## Project Description
-provide expert external advice to evaluate, build, and manage an organization's security posture against internal & external threats.
+We provide expert external advice to evaluate, build, and manage an organization's security posture against internal & external threats.
 
 ## Technologies used
 We utilize advanced, AI-driven technologies to detect, analyze, and mitigate threats in real-time. Key tools include AI and machine learning for threat detection, behavioral analytics, blockchain, Zero-Trust models, and automated Managed Detection and Response (MDR) systems.
@@ -16,7 +16,7 @@ We utilize advanced, AI-driven technologies to detect, analyze, and mitigate thr
    ```
 
 ## Screenshots
-Vulnerability Scan Results, Penetration Testing Evidence, Security Configuration Panels and Threat Intelligence & Data Analytics
+Vulnerability Scan Results, Penetration Testing Evidence, Security Configuration Panels and Threat Intelligence & Data Analytics.
 
 ## Business Rationale
 Shifting cybersecurity from a pure IT expense to a strategic, board-level, risk-management imperative.
