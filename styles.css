@@ -11,6 +11,12 @@ body {
     border: 2px solid whitesmoke;
     border-radius: 8px;
 }
+
+.service-card-compliance {
+    color: blue;
+    text-shadow: 5px -20px 10px;
+    
+}
 /* Styling using id */
 
 #services {
@@ -19,6 +25,14 @@ body {
     flex-direction: column;
     justify-content: center;
     
+}
+
+.services-grid h3 {
+    color: brown;
+}
+.hero {
+    color: aqua;
+    text-shadow: 5px 2px 10px;
 }
 
 /* universal selector for rule that will wrap up the entire page */
