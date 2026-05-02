@@ -31,7 +31,8 @@ body {
 /* attribute selector */
 
 a[href] {
-    color: peru;
+    color: blue;
+    cursor: pointer;
 
 }
 /* Descendant Selector */
